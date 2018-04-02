@@ -1,0 +1,19 @@
+Script started on Thu 05 Jun 2014 10:54:55 PM PDT
+]0;jcarrera@garrison:~/cs140/program6[?1034h[01;32mjcarrera@garrison[01;34m ~/cs140/program6 $[00m java Carrera_P[KArrayProcessing
+Enter a filename: inputFile1, .dat
+
+Printing Array:
+	  0   1   5  -9 -10 
+Printing Reversed Array:
+	-10  -9   5   1   0 
+	
+The sum of all elements is: -13
+The mean of all elements is: -2.0
+The minimum of all elements is: -10
+The maximum of all elements is: 5
+
+Program completed, remember to inspect 'even.out'and 'odd.out' files.
+]0;jcarrera@garrison:~/cs140/program6[01;32mjcarrera@garrison[01;34m ~/cs140/program6 $[00m exit
+exit
+
+Script done on Thu 05 Jun 2014 10:55:13 PM PDT

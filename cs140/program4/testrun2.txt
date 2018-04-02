@@ -1,0 +1,50 @@
+Script started on Mon 19 May 2014 10:01:02 PM PDT
+]0;jcarrera@garrison:~/cs140/program4[?1034h[01;32mjcarrera@garrison[01;34m ~/cs140/program4 $[00m java Carrera_Madlis[Kbs
+Enter the filename: Mad Libs 2.txt
+
+Noun:
+D Table
+
+Emotion:
+angry
+
+Girl's name:
+Jennifer
+
+Name of bad guy:
+Rowan
+
+Letter:
+R
+
+Letter:
+S F
+
+Number:
+54
+
+Noun (plural):
+cannons
+
+Occupation:
+ferry  boat captain
+
+Boy's name:
+Wilbur
+
+Verb:
+kick
+
+Noun:
+door
+
+Same boy's name:
+Wilbur
+
+Noun:
+plane
+In the film Table Wars: A New angry, Princess Jennifer sends out a call for help right before she gets captured by Rowan. The call reached RF-54 through a teenager named Luke and two cannons. Luke finds out that he is a/an ferryboat captain and joins up with Wilbur. Together they kick the princess. At the end of the film, Luke destroys the death door while Wilbur covers his plane.
+]0;jcarrera@garrison:~/cs140/program4[01;32mjcarrera@garrison[01;34m ~/cs140/program4 $[00m exit
+exit
+
+Script done on Mon 19 May 2014 10:02:44 PM PDT

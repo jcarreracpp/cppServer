@@ -1,0 +1,22 @@
+Script started on Wed 30 Apr 2014 10:09:58 PM PDT
+]0;jcarrera@garrison:~/cs140/program3[?1034h[01;32mjcarrera@garrison[01;34m ~/cs140/program3 $[00m java Carrera_Invoice
+Are you a member? yes
+
+  Quality of gas: 87
+
+ Gallons desired: 13
+
+
+          INVOICE FOR GASOLINE
+        Member Status:   Yes
+  Gasoline Sold/Price:   13 @ $ 3.77
+
+           Subtotal: $   49.01
+         County Tax: $    3.43
+           City Tax: $    1.84
+                       ---------
+              Total: $   54.28
+]0;jcarrera@garrison:~/cs140/program3[01;32mjcarrera@garrison[01;34m ~/cs140/program3 $[00m exit
+exit
+
+Script done on Wed 30 Apr 2014 10:10:45 PM PDT

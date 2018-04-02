@@ -1,0 +1,12 @@
+Script started on Mon 21 Apr 2014 03:15:15 PM PDT
+[01;32mjcarrera@fluffy[01;34m ~/cs140/program2 $[00m javaC[K Carrera_Program2a
+Enter tons: 34
+
+Enter pounds: 10
+
+Enter ounces: 16
+
+34 ton(s), 10 pound(s), and 16 ounce(s) converts to 30914.1 kilogram(s).[01;32mjcarrera@fluffy[01;34m ~/cs140/program2 $[00m exit
+exit
+
+Script done on Mon 21 Apr 2014 03:15:33 PM PDT

@@ -1,0 +1,20 @@
+Script started on Thu 05 Jun 2014 10:55:45 PM PDT
+]0;jcarrera@garrison:~/cs140/program6[?1034h[01;32mjcarrera@garrison[01;34m ~/cs140/program6 $[00m exitjava Carrera_ArrayProcessing
+Enter a filename: inputFile2.dat
+
+Printing Array:
+	-47  46 -100  72  89  97 -63 -82  58 -43 
+	
+Printing Reversed Array:
+	-43  58 -82 -63  97  89  72 -100  46 -47 
+	
+The sum of all elements is: 27
+The mean of all elements is: 2.0
+The minimum of all elements is: -100
+The maximum of all elements is: 97
+
+Program completed, remember to inspect 'even.out'and 'odd.out' files.
+]0;jcarrera@garrison:~/cs140/program6[01;32mjcarrera@garrison[01;34m ~/cs140/program6 $[00m exit
+exit
+
+Script done on Thu 05 Jun 2014 10:55:57 PM PDT

@@ -1,0 +1,15 @@
+Script started on Wed 09 Apr 2014 02:26:28 PM PDT
+[01;32mjcarrera@fluffy[01;34m ~/cs140 $[00m java Carrera_Program1
+Hello World!
+These are some of the things Carrera likes:
+
+	1. Video Game
+	  Mechwarrior Online
+	2. Film
+	  Pacific Rim
+	3. Song
+	  Fairlight - Mail Order Monsters
+[01;32mjcarrera@fluffy[01;34m ~/cs140 $[00m exit
+exit
+
+Script done on Wed 09 Apr 2014 02:26:40 PM PDT

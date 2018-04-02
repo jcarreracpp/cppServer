@@ -1,0 +1,17 @@
+Script started on Sun 01 Jun 2014 11:28:29 PM PDT
+]0;jcarrera@fluffy:~/cs140/program5[?1034h[01;32mjcarrera@fluffy[01;34m ~/cs140/program5 $[00m exitjava Carrera_GradingArrera_Gradingarrera_Grading
+Ignoring student 65400 with invalid extra credit 6
+Ignoring student with invalid ID number 573S1
+Ignoring student 32911 with invalid grade -10.90
+      Mean Earned Grade:  79.24
+    Mean Enhanced Grade:  81.99
+      Mode Earned Grade:  70.16
+    Mode Enhanced Grade:  90.52
+   Minimum Earned Grade:  54.47 (student 21076)
+ Minimum Enhanced Grade:  58.47 (student 21076)
+   Maximum Earned Grade: 100.00 (student 46813)
+ Maximum Enhanced Grade: 100.00 (student 46813)
+]0;jcarrera@fluffy:~/cs140/program5[01;32mjcarrera@fluffy[01;34m ~/cs140/program5 $[00m exit
+exit
+
+Script done on Sun 01 Jun 2014 11:28:36 PM PDT

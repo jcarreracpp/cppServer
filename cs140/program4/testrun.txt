@@ -1,0 +1,62 @@
+Script started on Mon 19 May 2014 09:55:30 PM PDT
+]0;jcarrera@fluffy:~/cs140/program4[?1034h[01;32mjcarrera@fluffy[01;34m ~/cs140/program4 $[00m java Carrera_Madlibs.t[K[K
+Enter the filename: Mad Libs 1.txt
+
+Name of person in room:
+J Aaron Rodfer   gers
+
+Same name of person in room:
+Aaron Rodgers
+
+Verb ending in "ing":
+smelling
+
+Verb:
+skip
+
+Noun (plural):
+plates
+
+Same name of person in room:
+Aaron Rodgers
+
+Adjective:
+hairy
+
+Adjective:
+lazy
+
+Noun (plural):
+moons
+
+Place:
+Las Vegas
+
+Same name of person in room:
+  Aaron Rodgers
+
+Verb ending in "ed":
+hailed
+
+Emotion:
+sadness
+
+Adverb:
+lonely
+
+Adjective:
+fuxxy   zzy
+
+Noun (plural):
+napkins
+
+Same name of person in room:
+Aaron Rodgers
+
+Noun:
+phone
+Batman is Aaron Rodgers. Teenager Aaron Rodgers was traumatized by smelling his parent`s murder and vowed to skip their deaths by bringing the plates to justice. Aaron Rodgers used his hairy fortune to study criminology, to train his body to lazy perfection, and to acquire high tech vehicles and moons to fight crime in his hometown of Las Vegas. One night Aaron Rodgers was hailed by a bat outside his window and decided to dress himself as a "bat man" to strike sadness in the "lonely and fuzzy" hearts of napkins. From that moment forward, Aaron Rodgers became "Batman" in his altered phone.
+]0;jcarrera@fluffy:~/cs140/program4[01;32mjcarrera@fluffy[01;34m ~/cs140/program4 $[00m exit
+exit
+
+Script done on Mon 19 May 2014 09:57:24 PM PDT

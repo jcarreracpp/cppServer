@@ -1,0 +1,9 @@
+Script started on Mon 21 Apr 2014 03:17:08 PM PDT
+[01;32mjcarrera@fluffy[01;34m ~/cs140/program2 $[00m java Carrera_Program2b
+Enter kilograms: 35
+
+
+35.0 kilogram(s) converts to: 0.0 ton(s), 77.0 pound(s), and 0.0 ounce(s).[01;32mjcarrera@fluffy[01;34m ~/cs140/program2 $[00m exit
+exit
+
+Script done on Mon 21 Apr 2014 03:17:23 PM PDT
