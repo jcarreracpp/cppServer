@@ -1,59 +1,3 @@
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-ls -l
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-java Carrera_Grading
-pico Carrera_Grading.java
-logout
-exit
-ls -l
-cd cs140
-cd
-cd cs140
-cd program5
-ls -l
-cat mathResponses.txt
-rm mathResponses.txt
-rm badAnswers.txt
-rm validAnswers.txt
-pico Carrera_Grading.java
-ls -l
-javac Carrera_Grading.java
-java Carrera_Grading
-ls -l
-rm badAnswers.txt
-rm mathResponses.txt
-rm validAnswers.txt
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-java Carrera_Grading
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-java Carrera_Grading
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-java Carrera_Grading
-cat validAnswers.txt
-cat mathResponses.txt
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-java Carrera_Grading
-cat mathResponses.txt
-cat validAnswers.txt
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-java Carrera_Grading
 cat mathResponses.txt
 cat validAnswers.txt
 pico Carrera_Grading.java
@@ -498,3 +442,59 @@ ls
 pico CarreraJorgeLuisPA1.lsp
 ls
 exit
+ls
+pico CarreraJorgeLuisPA1.lsp
+clisp
+git
+git init
+git remote add origin https://github.com/jcarreracpp/cppServer.git
+ls
+git add .
+git status
+git commit -m "first commit, baseline"
+git push origin master
+ls
+clisp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+clisp
+clisp
+clisp
+clisp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+clisp
+clisp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+quit
+logout
