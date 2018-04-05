@@ -1,93 +1,3 @@
-cat mathResponses.txt
-cat validAnswers.txt
-pico Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-java Carrera_Grading
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-java Carrera_Grading
-cat mathResponses.txt
-pico Carrera_Grading.java
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-javac Carrera_Grading.java
-java Carrera_Grading
-cat mathResponses.txt
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-exit
-ls -l
-cd cs140
-ls -l
-cd program5
-ls -l
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-ls -l
-java Carrera_Grading
-ls -l
-cat badAnswers.txt
-cat mathResponses.txt
-cat validAnswers.txt
-pico Carrera_Grading.java
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-javac Carrera_Grading.java
-java Carrera_Grading
-ls -l
-cat mathResponses.txt
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-java Carrera_Grading
-ls -l
-cat mathResponses.txt
-pico Carrera_Grading.java
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-javac Carrera_Grading.java
-java Carrera_Grading
-cat mathResponses.txt
-pico Carrera_Grading.java
-rm validAnswers.txt
-rm badAnswers.txt
-rm mathResponses.txt
-javac Carrera_Grading.java
-java Carrera_Grading
-cat mathResponses.txt
-cat validAnswers.txt
-cat badAnswers.txt
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-pico Carrera_Grading.java
-javac Carrera_Grading.java
-ls -l
-rm badAnswers.txt
-rm mathResponses.txt
-rm validAnswers.txt
-java Carrera_Grading
-pico Carrera_Grading.java
 javac Carrera_Grading.java
 java Carrera_Grading
 pico Carrera_Grading.java
@@ -497,4 +407,94 @@ pico CarreraJorgeLuisPA1.lsp
 clisp CarreraJorgeLuisPA1.lsp
 pico CarreraJorgeLuisPA1.lsp
 quit
+logout
+ls
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp
+clisp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA1.lsp
+clisp CarreraJorgeLuisPA1.lsp
+git add .
+git status
+git commit -m "Lisp Assignment 1 finished."
+git push origin master
+git push origin master
+git push origin master
+exit
+clisp
+ls
+pico CarreraJorgeLuisPA2.lsp
+ls
+pico CarreraJorgeLuisPA1.lsp
+pico CarreraJorgeLuisPA2.lsp
+logout
+ls
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
+pico CarreraJorgeLuisPA2.lsp
+clisp CarreraJorgeLuisPA2.lsp
 logout
