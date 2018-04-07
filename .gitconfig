@@ -1,2 +1,5 @@
 [credential]
 	helper = wincred
+[user]
+	name = jcarreracpp
+	email = jcarrera@cpp.edu
