@@ -1,172 +1,3 @@
-cd cs140
-cs program6
-cd program6
-ls -l
-pico Carrera_ArrayProcessing.java
-pico Carrera_ArrayProcessing.java
-javac Carrera_ArrayProcessing.java
-java Carrera_ArrayProcessing
-pico Carrera_ArrayProcessing.java
-javac Carrera_ArrayProcessing.java
-java Carrera_ArrayProcessing
-pico Carrera_ArrayProcessing.java
-javac Carrera_ArrayProcessing.java
-java Carrera_ArrayProcessing
-pico Carrera_ArrayProcessing.java
-javac Carrera_ArrayProcessing.java
-java Carrera_ArrayProcessing
-pico Carrera_ArrayProcessing.java
-javac Carrera_ArrayProcessing.java
-pico Carrera_ArrayProcessing.java
-javac Carrera_ArrayProcessing.java
-pico Carrera_ArrayProcessing.java
-javac Carrera_ArrayProcessing.java
-java Carrera_ArrayProcessing
-ls -l
-ls -l
-ls
-pico Carrera_ArrayProcessing.java
-javac Carrera_ArrayProcessing.java
-java Carrera_ArrayProcessing
-ls -l
-javac Carrera_ArrayProcessing.java
-pico Carrera_ArrayProcessing.java
-javac Carrera_ArrayProcessing.java
-java Carrera_ArrayProcessing
-ls -l
-cat even.out
-cat odd.out
-pico Carrera_ArrayProcessing.java
-rm even.out
-rm odd.out
-javac Carrera_ArrayProcessing.java
-script
-ls -l
-rm typescript
-script sourcecode.txt
-script test1.txt
-script test2.txt
-script test3.txt
-script test4.txt
-ls -l
-script test5.txt
-ls -l
-cat odd.out
-rm odd.out
-rm even.out
-logout
-ls -l
-java damage
-exit
-ls -l
-java damage
-logout
-ls
-clisp
-logout
-clisp
-exit
-ls
-clisp
-ls
-ls
-help
-pico
-pico
-ls
-delete mywork
-rm mywork
-ls
-pico CarreraJorgeLuisPA1.lsp
-ls
-pico CarreraJorgeLuisPA1.lsp
-ls
-exit
-ls
-pico CarreraJorgeLuisPA1.lsp
-clisp
-git
-git init
-git remote add origin https://github.com/jcarreracpp/cppServer.git
-ls
-git add .
-git status
-git commit -m "first commit, baseline"
-git push origin master
-ls
-clisp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-clisp
-clisp
-clisp
-clisp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-clisp
-clisp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-quit
-logout
-ls
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp
-clisp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
 pico CarreraJorgeLuisPA1.lsp
 clisp CarreraJorgeLuisPA1.lsp
 pico CarreraJorgeLuisPA1.lsp
@@ -497,4 +328,173 @@ clisp CarreraJorgeLuisPA3.lsp
 clisp CarreraJorgeLuisPA3.lsp
 pico CarreraJorgeLuisPA3.lsp
 clisp CarreraJorgeLuisPA3.lsp
+logout
+git add .
+git status
+git commit -m "mmmm"
+git push origin master
+git push origin master
+ls
+git status
+git push origin master
+git push origin master
+git remote -v
+git remote remove origin
+git remote add origin https://github.com/jcarreracpp/cppServer.git
+git add .
+git status
+git commit -m "cmmmc"
+git push origin master
+git config --global credential.helper wincred
+git remote set-url origin https://github.com/jcarreracpp/cppServer.git
+git status
+git reset --hard HEAD^
+ls
+git status
+git add .
+git status
+git commit -m "here"
+git config --global user.name "jcarreracpp
+git config --global user.name "jcarreracpp"
+git config --global user.email jcarrera@cpp.edu
+git commit --amend --reset-author
+git commit -m --amend --reset-author
+git push origin master
+logout
+git status
+git add .
+git status
+git commit -m "okay"
+git push origin master
+logout
+git status
+quit
+logout
+jobs
+exit
+ls
+when im playing minecraft
+pico CarreraJorgeLuisPA5.lsp
+clisp
+pico CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+quit
+logout
+ls
+pico CarreraJorgeLuisPA5.lsp
+ls
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp
+pico CarreraJorgeLuisPA5.lsp
+clisp
+clisp CarreraJorgeLuisPA5.lsp
+clisp
+pico CarreraJorgeLuisPA5.lsp
+clisp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+ls
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
 logout
