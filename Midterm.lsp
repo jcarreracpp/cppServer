@@ -1,0 +1,16 @@
+;Problem 1
+(defun check_number (n)
+	(if (= n 0)
+		(return-from check_number 0)
+	)
+	(if (oddp n)
+		(return-from check_number -1)
+	)
+	(if (evenp n)
+		(return-from check_number 1)
+	)
+)
+
+(print(check_number 3))
+(print(check_number 2))
+(print(check_number 0))

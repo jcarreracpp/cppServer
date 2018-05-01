@@ -1,47 +1,3 @@
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA1.lsp
-clisp CarreraJorgeLuisPA1.lsp
-git add .
-git status
-git commit -m "Lisp Assignment 1 finished."
-git push origin master
-git push origin master
-git push origin master
-exit
-clisp
-ls
-pico CarreraJorgeLuisPA2.lsp
-ls
-pico CarreraJorgeLuisPA1.lsp
-pico CarreraJorgeLuisPA2.lsp
-logout
-ls
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
 pico CarreraJorgeLuisPA2.lsp
 clisp CarreraJorgeLuisPA2.lsp
 pico CarreraJorgeLuisPA2.lsp
@@ -498,3 +454,47 @@ pico CarreraJorgeLuisPA5.lsp
 clisp CarreraJorgeLuisPA5.lsp
 pico CarreraJorgeLuisPA5.lsp
 logout
+ls
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+clisp CarreraJorgeLuisPA5.lsp
+pico CarreraJorgeLuisPA5.lsp
+git
+git add .
+git status
+git commit -m "Project 5."
+git push origin master
+git push origin master
+logout
+clisp
+logout
+ls
+pico CarreraJorgeLuisPA5.lsp
+exit
+man swipl
+swipl
+swipl
+logout
+swipl
+quit
+logout
+ls
+pico CarreraJorgeLuisPA5.lsp
+logout
+clisp
+logout
+(apply #'(lambda (A B C)(* A (+ B C))) '(4 3 5))
+(apply #'(lambda (A B C) (* A (+ B C))) '(4 3 5))
+clisp
+ls
+pico Midterm.lsp
+clisp Midterm.lsp
+pico Midterm.lsp
+clisp Midterm.lsp
+pico Midterm.lsp
+clisp Midterm.lsp
+pico Midterm.lsp
+clisp Midterm.lsp
+pico Midterm.lsp
+clisp
