@@ -1,56 +1,3 @@
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-pico CarreraJorgeLuisPA2.lsp
-clisp CarreraJorgeLuisPA2.lsp
-logout
-ls
-git add .
-git status
-git comment -m "Assignment 2."
-git commit -m "Assignment 2."
-git push origin master
-ls
-quit
-logout
-ls
-clisp
-pico sumtest.lsp
-clisp sumtest.lsp
-pico sumtest.lsp
-clisp sumtest.lsp
-pico sumtest.lsp
-clisp sumtest.lsp
-pico sumtest.lsp
-clisp sumtest.lsp
-clisp sumtest.lsp
-pico sumtest.lsp
-clisp
-pico sumtest.lsp
-pico sumtest.lsp
-clisp
-logout
-ls
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
 clisp CarreraJorgeLuisPA3.lsp
 pico CarreraJorgeLuisPA3.lsp
 clisp CarreraJorgeLuisPA3.lsp
@@ -498,3 +445,56 @@ pico Midterm.lsp
 clisp Midterm.lsp
 pico Midterm.lsp
 clisp
+git
+git add .
+git commit -m "Changes 5 1 2018"
+git push origin master
+git push origin master
+exit
+swipl
+swipl
+quit
+logout
+exit
+swipl
+quit
+logout
+exit
+swipl
+logout
+swipl
+ls
+pico swiplTest.pl
+swipl
+ls
+pico CarreraJorgeLuisPA6.pl
+pico swiplTest.pl
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
+swipl
+exit
+ls
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
+swipl
+exit
+lsw
+ls
+pico CarreraJorgeLuisPA6.pl
+swipl
+ls
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
