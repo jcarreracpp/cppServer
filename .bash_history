@@ -1,94 +1,3 @@
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-logout
-ls
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
 pico CarreraJorgeLuisPA3.lsp
 clisp CarreraJorgeLuisPA3.lsp
 pico CarreraJorgeLuisPA3.lsp
@@ -498,3 +407,94 @@ ls
 pico CarreraJorgeLuisPA6.pl
 swipl
 pico CarreraJorgeLuisPA6.pl
+ls
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
+git add .
+git commit -m "new revision"
+git push origin master
+ls
+git pull origin master
+ls
+swipl
+exit
+ls
+pico CarreraJorgeLuisPA6.pl
+swipl
+exit
+pico CarreraJorgeLuisPA6.pl
+swipl
+pico CarreraJorgeLuisPA6.pl
+exit
+pico prologTest.pl
+swipl -s prologTest.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl -s CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+exit
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+exit

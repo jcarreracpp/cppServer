@@ -30,10 +30,8 @@ likes(mary,book).
 likes(mary,corvettes).
 likes(alex,corvettes).
 
-smart(john).
-smart(mary).
-valuable(book).
-valuable(corvettes).
+smart(X) :- likes(X,book).
+valuable(X) :- likes(mary,X).
 
 /**
 *
