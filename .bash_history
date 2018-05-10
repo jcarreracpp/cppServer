@@ -1,12 +1,3 @@
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
 clisp CarreraJorgeLuisPA3.lsp
 pico CarreraJorgeLuisPA3.lsp
 clisp CarreraJorgeLuisPA3.lsp
@@ -497,4 +488,13 @@ swipl CarreraJorgeLuisPA7.pl
 pico CarreraJorgeLuisPA7.pl
 swipl CarreraJorgeLuisPA7.pl
 pico CarreraJorgeLuisPA7.pl
+exit
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+swipl CarreraJorgeLuisPA7.pl
+pico CarreraJorgeLuisPA7.pl
+git add .
+git commit -m "new version."
+git push origin master
 exit
