@@ -1,21 +1,3 @@
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
 clisp CarreraJorgeLuisPA3.lsp
 pico CarreraJorgeLuisPA3.lsp
 clisp CarreraJorgeLuisPA3.lsp
@@ -496,5 +478,23 @@ pico Quiz3.pl
 swipl Quiz3.pl
 git add .
 git commit -m "new"
+git push origin master
+exit
+ls
+pico CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+git add .
+git commit -m "Homework 8 in progress."
+git push origin master
 git push origin master
 exit
