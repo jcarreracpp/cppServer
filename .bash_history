@@ -1,161 +1,3 @@
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-pico CarreraJorgeLuisPA3.lsp
-clisp CarreraJorgeLuisPA3.lsp
-logout
-git add .
-git status
-git commit -m "mmmm"
-git push origin master
-git push origin master
-ls
-git status
-git push origin master
-git push origin master
-git remote -v
-git remote remove origin
-git remote add origin https://github.com/jcarreracpp/cppServer.git
-git add .
-git status
-git commit -m "cmmmc"
-git push origin master
-git config --global credential.helper wincred
-git remote set-url origin https://github.com/jcarreracpp/cppServer.git
-git status
-git reset --hard HEAD^
-ls
-git status
-git add .
-git status
-git commit -m "here"
-git config --global user.name "jcarreracpp
-git config --global user.name "jcarreracpp"
-git config --global user.email jcarrera@cpp.edu
-git commit --amend --reset-author
-git commit -m --amend --reset-author
-git push origin master
-logout
-git status
-git add .
-git status
-git commit -m "okay"
-git push origin master
-logout
-git status
-quit
-logout
-jobs
-exit
-ls
-when im playing minecraft
-pico CarreraJorgeLuisPA5.lsp
-clisp
-pico CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-quit
-logout
-ls
-pico CarreraJorgeLuisPA5.lsp
-ls
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp
-pico CarreraJorgeLuisPA5.lsp
-clisp
-clisp CarreraJorgeLuisPA5.lsp
-clisp
-pico CarreraJorgeLuisPA5.lsp
-clisp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
 clisp CarreraJorgeLuisPA5.lsp
 pico CarreraJorgeLuisPA5.lsp
 clisp CarreraJorgeLuisPA5.lsp
@@ -498,3 +340,161 @@ git commit -m "Homework 8 in progress."
 git push origin master
 git push origin master
 exit
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+swipl CarreraJorgeLuisPA8.pl
+pico CarreraJorgeLuisPA8.pl
+git add .
+git commit -m "PA8 finished."
+git push origin master
+swipl CarreraJorgeLuisPA8.pl
+exit
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+swipl -s Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+swipl -s Exam2.pl
+pico Exam2.pl
+pico Exam2.pl
