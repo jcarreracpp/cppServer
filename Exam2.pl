@@ -1,3 +1,6 @@
+/**
+*Problem 1.
+**/
 spec(comp1, pc, 32).
 spec(comp2, mac, 128).
 spec(comp3, pc, 64).
@@ -28,6 +31,9 @@ can_use(P, SW) :-
 *false.
 **/
 
+/**
+*Problem 3.
+**/
 getGrade(NUM, G) :- NUM < 0, !, G = "I".
 getGrade(NUM, G) :- NUM > 100, !, G = "I".
 getGrade(NUM, G) :- NUM >= 0 ,NUM =< 60,!, G = "F", !.
@@ -48,6 +54,10 @@ getGrade(NUM, G) :- NUM > 80 ,NUM =< 100,!, G = "E".
 *G = "E".
 **/
 
+
+/**
+*Problem 2.
+**/
 flatten([],[]) :- !.
 flatten([L|Lt], Flatten) :-
 	!,
@@ -61,7 +71,9 @@ flatten(L, [L]).
 *X = [a, b, c, d, e].
 **/
 
-
+/**
+*Problem 4
+**/
 gen(0, []).
 gen(X, L) :-
 	X > 0,
@@ -86,7 +98,7 @@ gen2(0, []).
 
 gen2(X, L) :-
 	X > 0,
-	Xr is R**3,
+	Xr is 1,
 	Xn is X - 1,
 	L = [Xr|Lt],
 	gen2(Xn, Lt, 1).
@@ -106,11 +118,18 @@ gen2(X, L, R) :-
 *L = [1, 10, 9, 6, 1, 16, 5].
 **/
 
-
+/**
+*Problem 5.
+**/
 samefreq(L1, L2, C) :-
-	count(L1,C) =:= count(L2,C).
+	N is 0,
+	M is 0,
+	count(L1,C,N),
+	count(L2,C,M),
+	N =:= M.
 
 count([L|Lt], C, Cc) :-
-	!,
-	count(Cc, Lt, C1),
-	C is C + 1. 
+	L =:= C ->
+	Cc is Cc + 1,
+	count(Lt, C, Cc);
+	count(Lt, C, Cc). 

@@ -1,32 +1,3 @@
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
 pico CarreraJorgeLuisPA5.lsp
 clisp CarreraJorgeLuisPA5.lsp
 pico CarreraJorgeLuisPA5.lsp
@@ -498,3 +469,32 @@ pico Exam2.pl
 swipl -s Exam2.pl
 pico Exam2.pl
 pico Exam2.pl
+swipl CarreraJorgeLuisPA8.pl
+ls
+pico Exam2.pl
+swipl CarreraJorgeLuisPA8.pl
+swipl Exam2.pl
+swipl CarreraJorgeLuisPA8.pl
+pico Exam2.pl
+swipl CarreraJorgeLuisPA8.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+git add .
+git commit -m "eugh"
+git push origin master
+exit
