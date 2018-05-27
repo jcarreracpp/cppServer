@@ -1,68 +1,3 @@
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-ls
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-logout
-ls
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-clisp CarreraJorgeLuisPA5.lsp
-pico CarreraJorgeLuisPA5.lsp
-git
-git add .
-git status
-git commit -m "Project 5."
-git push origin master
-git push origin master
-logout
-clisp
-logout
-ls
-pico CarreraJorgeLuisPA5.lsp
-exit
-man swipl
-swipl
-swipl
-logout
-swipl
-quit
-logout
-ls
-pico CarreraJorgeLuisPA5.lsp
-logout
-clisp
-logout
-(apply #'(lambda (A B C)(* A (+ B C))) '(4 3 5))
-(apply #'(lambda (A B C) (* A (+ B C))) '(4 3 5))
-clisp
-ls
-pico Midterm.lsp
-clisp Midterm.lsp
-pico Midterm.lsp
-clisp Midterm.lsp
 pico Midterm.lsp
 clisp Midterm.lsp
 pico Midterm.lsp
@@ -497,4 +432,69 @@ swipl Exam2.pl
 git add .
 git commit -m "eugh"
 git push origin master
+exit
+ls
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+pico Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+git add .
+git commit -m "HOH"
+git push origin master
+git push origin master
+ls
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
+pico Exam2.pl
+pico Exam2.pl
+swipl Exam2.pl
+pico Exam2.pl
 exit

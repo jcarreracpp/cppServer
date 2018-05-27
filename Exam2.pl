@@ -97,19 +97,17 @@ gen(X, L) :-
 gen2(0, []).
 
 gen2(X, L) :-
-	X > 0,
-	Xr is 1,
-	Xn is X - 1,
-	L = [Xr|Lt],
-	gen2(Xn, Lt, 1).
+	R is 0,
+	X >= R,
+	gen2(X, L, R).
 
 gen2(X, L, R) :-
-	X > 0,
-	Rr is R +1;
-	Xr is Rr**3,
-	Xn is X - 1,
-	L = [Xr|Lt],
-	gen2(Xn, Lt, Rr).
+	Rr is R + 1,
+	X >= Rr,
+	Rs is Rr^3,
+	L = [Rs|Lt],
+	gen2(X, Lt, Rr).
+
 /**
 *?- gen(10, L).
 *L = [2, 9, 10, 15, 10, 15, 14, 7, 12, 15].
@@ -122,14 +120,27 @@ gen2(X, L, R) :-
 *Problem 5.
 **/
 samefreq(L1, L2, C) :-
-	N is 0,
-	M is 0,
 	count(L1,C,N),
 	count(L2,C,M),
+	!,
 	N =:= M.
 
-count([L|Lt], C, Cc) :-
-	L =:= C ->
-	Cc is Cc + 1,
-	count(Lt, C, Cc);
-	count(Lt, C, Cc). 
+count([],_,0).
+
+count([C|Lt], C, Cc) :-
+	!,
+	count(Lt, C, Cn),
+	Cc is Cn + 1.
+
+count([_|Lt], C, Cc) :-
+	count(Lt, C, Cc).
+/**
+*?- samefreq([a,a,a,a,b,c,c,a,a,d,e,e,e,e],[b,b,a,c,a,a,a,d,a,a,e,e],a).
+*true.
+*
+*?- samefreq([a,a,a,a,b,c,c,a,a,d,e,e,e,e],[b,b,a,c,a,a,a,d,a,a,e,e],b).
+*false.
+*
+*?- samefreq([],[],c).
+*true.
+**/
